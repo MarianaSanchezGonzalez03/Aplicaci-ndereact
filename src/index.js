@@ -8,6 +8,6 @@ const saludo = <h1>Hola Mundo</h1>;
 
 const divRoot = document.querySelector("#app");
 
-ReactDOM.render(<CounterApp value={2002} />, divRoot);
+ReactDOM.render(<CounterApp value={1} />, divRoot);
 
 
